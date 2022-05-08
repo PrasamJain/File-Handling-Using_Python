@@ -1,0 +1,1 @@
+Hello this is the text.txt file for performing enecrytion and decrytion.
